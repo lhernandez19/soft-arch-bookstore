@@ -7,7 +7,7 @@ import java.time.Month;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Original Program");
+        System.out.println("Original Program.");
 
         Product book1 = new HardcoverBook("The Hunger Games", "9780439023528",
                 8.79, 12,
